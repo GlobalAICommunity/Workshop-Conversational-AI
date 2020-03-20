@@ -36,7 +36,7 @@ Once you have defined the intents start adding them to your model on the portal
 
 ### You could use the APIs to create intents as defined in the [Documentation](https://westeurope.dev.cognitive.microsoft.com/docs/services/luis-programmatic-apis-v3-0-preview/operations/5890b47c39e2bb052c5b9c2f) 
 
-### Make sure to check the utterances, these are cowd sourced and you need to treat them in this regard. The process of 
+### Make sure to check the utterances, these are cowd sourced and you need to treat them in this regard. The process of Machine Teaching also entails more consideration for the utterances through the teacher (you) as they come to be added to the model
 
 # Create entity extractors
 Entities extraction performs sequence tagging estimation. Given a collection of tagged word sequences, you would like to estimate the tags of a new utterance. User Entities are items or elements the user is taking action about. 
@@ -59,7 +59,8 @@ Once you have defined the entities, start adding them to your model on the porta
 
 ### You could use the APIs to create intents as defined in the [Documentation](https://westeurope.dev.cognitive.microsoft.com/docs/services/luis-programmatic-apis-v3-0-preview/operations/5890b47c39e2bb052c5b9c2f) 
 
-### Make sure to check the utterances, these are cowd sourced and you need to treat them in this regard. The process of 
+### Make sure to check the utterances, these are cowd sourced and you need to treat them in this regard. The process of Machine Teaching also entails more consideration for the utterances through the teacher (you) as they come to be added to the model
+
 
 ## Actionable entities (int-ent-ities)
 

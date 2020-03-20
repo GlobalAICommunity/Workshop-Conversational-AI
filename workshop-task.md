@@ -93,3 +93,6 @@ Use utterances as produced from Speech-To-Text (STT) in labeling, making sure ut
 Model-as-a-feature enables you to use well recognized “IS-A” relationship as means to improve extraction. This happens by injecting these extractions as features to other entity extractors, or intent classifications to improve the performance. You should use these to these entities or descriptors are clear indication of the subsequent model.
 
 ### You could use the APIs to create intents as defined in the [Documentation](https://westeurope.dev.cognitive.microsoft.com/docs/services/luis-programmatic-apis-v3-0-preview/operations/5890b47c39e2bb052c5b9c2f) 
+
+#Next Task
+Follow the link to proceed to [Next Task](workshop-task2.md)

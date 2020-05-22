@@ -27,7 +27,7 @@ For this workshop we have collected a set of user utterances that address the th
 
 - [Leave Request](Data/HR_vacation_data.csv)
 - [Custom HR letter](Data/HR_letter_data.csv)
-- [Interview management](Data/HR_Interview_Data.csv)
+- [Interview management](Data/HR_interview_data.csv)
 
 Each file contains the utterance, the entities and their types and the labeled intents for these utterances. 
 
